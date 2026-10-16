@@ -1,0 +1,6 @@
+{
+  "name": "Aura Cinema & Stills",
+  "description": "High-end photography and cinematography production company crafting commercial, architectural, and editorial imagery since 2009.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
